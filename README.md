@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    ![Screenshot 2023-02-17 at 10 15 22](https://user-images.githubusercontent.com/91907648/219694429-06dba1c5-45fd-429e-a21a-3e91d8e1521c.png)
-  </img>
+    ![Screenshot 2023-02-17 at 10 15 22](https://user-images.githubusercontent.com/91907648/219694607-b32f191c-2dbe-4f9b-90d4-e903cec2cfa5.png)
+
 
 <h3 align="center">scentMatch</h3>
 
