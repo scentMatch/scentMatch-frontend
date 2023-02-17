@@ -12,7 +12,7 @@
    Your Personalized Scent Recommendation Platform 
     <br />
     <br />
-    <a href="https://youtu.be/d5YbjtlOdD4">View Demo</a>
+<!--     <a href="https://youtu.be/d5YbjtlOdD4">View Demo</a> -->
    
   </p>
 </div>
