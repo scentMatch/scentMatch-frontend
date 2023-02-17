@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="logo.JPEG" alt="Logo" width="80" height="80"> 
+    ![Screenshot 2023-02-17 at 10 15 22](https://user-images.githubusercontent.com/91907648/219694429-06dba1c5-45fd-429e-a21a-3e91d8e1521c.png)
   </img>
 
 <h3 align="center">scentMatch</h3>
